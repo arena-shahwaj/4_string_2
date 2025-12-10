@@ -152,9 +152,6 @@ console.log("M1:", m1.replaceAll(" ", "-"));
 // 17. Extract first 5 characters
 console.log("M2:", m1.slice(0, 5));
 
-// 18. Convert sentence into array
-console.log("M3:", m1.split(" "));
-
 // 19. Reverse a string
 let m2 = "coding";
 console.log("M4:", m2.split("").reverse().join(""));
